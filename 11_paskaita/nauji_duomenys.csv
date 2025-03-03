@@ -1,0 +1,28 @@
+,pavadinimas,matavimo_vnt,vienetu,vnt_kaina,nuolaida,bendra_kaina
+0,Dizaino pagrindai ir piešimas ,val.,120,40,20,4800
+1,Dizaino programavimas,val.,120,40,20,4800
+2,Programavimas,val.,160,40,20,6400
+3,Testavimas,val.,16,30,,480
+4,Programavimas,val.,160,40,20,6400
+5,Testavimas,val.,20,30,,600
+6,Programavimas,val.,160,40,20,6400
+7,Testavimas,val.,20,30,,600
+8,Programavimas,val.,160,40,20,6400
+9,Testavimas,val.,40,30,,1200
+10,Programavimas,val.,100,40,20,4000
+11,Testavimas,val.,40,30,,1200
+12,Dokumentacijos rengimas,val.,50,30,,1500
+13,Projekto parengimas darbui,val.,30,30,,900
+14,Dizaino piešimas,val.,80,40,20,3200
+15,Dizaino programavimas,val.,120,40,20,4800
+16,Testavimas,val.,20,30,,600
+17,Programavimas,val.,100,40,20,4000
+18,Testavimas,val.,20,30,,600
+19,Projekto talpinimas,val.,20,30,,600
+20,Avansas,vnt.,1,1000,,1000
+21,Dizaino piešimas,val.,80,40,20,3200
+22,Dizaino programavimas,val.,80,40,20,3200
+23,Testavimas,val.,20,30,,600
+24,Programavimas,val.,80,40,20,3200
+25,Testavimas,val.,10,30,,300
+26,Projekto talpinimas,val.,10,30,,300
